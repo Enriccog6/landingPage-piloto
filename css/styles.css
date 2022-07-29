@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+header {
+    background-image: url(https://64.media.tumblr.com/24a03fcdefa2f89bdf4c7d1d4dd7d148/tumblr_n2eqmrxwvx1qza1qzo1_400.gifv);
+    color: white;
+    font-family: 'Rajdhani', sans-serif;
+    font-size:60px;
+    border-bottom: 3px solid indigo;
+    Padding: 20px;
+    margin-bottom:15px;
+    text-align: center;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://64.media.tumblr.com/24a03fcdefa2f89bdf4c7d1d4dd7d148/tumblr_n2eqmrxwvx1qza1qzo1_400.gifv);
+}
+section {
+    width: 50%;
+    margin-left: 25%;
+    background-color: rebeccapurple;
+    margin-bottom: 15px;
+    padding-left: 12px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: 1px dashed black;
+    border-radius: 5px;
+    text-align: center;
+    box-sizing: border-box;
+}
+section img{
+    width: 100px;
+}
+
+footer {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 28px;
+    background-color: rebeccapurple;
+    color: white;
+    border-top: 1px solid lightseagreen;
+    padding: 12px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
